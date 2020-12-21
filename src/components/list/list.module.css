@@ -1,0 +1,14 @@
+.List {
+    font-weight: bolder;
+    box-shadow: inset;
+    display: inline-block;
+    
+}
+
+.Card {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
